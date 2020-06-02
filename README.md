@@ -6,7 +6,9 @@
 
 A repository that hold Interview Coding problems given by the famous top MNC's such as Google, Microsoft etc., some problem do have solutions, and other don't have due to time, you can create a solution and make a pull request.
 
-![ultracode](https://github.com/Neilblaze/Circadian-Coding-Problems/blob/master/ultracode.jpg)
+<p align="center">
+<img src="https://github.com/Neilblaze/URL-Dinogame/blob/master/ultracode.png" width="450" height="450" align="center">
+</p>
 
 ## Getting Started
 
