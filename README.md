@@ -25,6 +25,7 @@ To add more & more coding problems and assesments to this repo, just create a PR
 ## Authors
 
 * **Pratyay Banerjee** - *Initial work* - [Neilblaze](https://github.com/Neilblaze)
+<a href="https://sourcerer.io/neilblaze"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
 
 ## License
 
