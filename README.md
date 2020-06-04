@@ -24,11 +24,8 @@ To add more & more coding problems and assesments to this repo, just create a PR
 
 ## Authors
 
-* **Pratyay Banerjee** - *Initial work* - [Neilblaze](https://github.com/Neilblaze) <br>
-<a href="https://sourcerer.io/neilblaze"><img src="https://sourcerer.io/icons/logo-sharing.svg"height="48px" alt="Sourcerer"></a>
+* **Pratyay Banerjee** - *Initial work* - [Neilblaze](https://github.com/Neilblaze)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-
