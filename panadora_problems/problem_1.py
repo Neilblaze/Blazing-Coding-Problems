@@ -1,4 +1,4 @@
-"""This problem was asked by Pandora.
+"""This problem was asked by Panadora.
 
 Given an undirected graph, determine if it contains a cycle.
 """
