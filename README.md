@@ -1,6 +1,6 @@
 # Circadian Coding Problems [max ~ .py]
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)<br>
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br>
 [![N|Solid](https://img.shields.io/github/last-commit/Neilblaze/Circadian-Coding-Problems)](https://img.shields.io/github/last-commit/Neilblaze/Circadian-Coding-Problems) &ensp; [![N|Solid](https://img.shields.io/badge/Circadian-Coding%20Questions-green)](https://img.shields.io/badge/Circadian-Coding%20Questions-green)
 
 # Daily Coding Problems
