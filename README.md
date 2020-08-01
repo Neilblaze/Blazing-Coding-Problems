@@ -30,3 +30,9 @@ To add more & more coding problems and assesments to this repo, just create a PR
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
+```
+if (repo.isAwesome || repo.isHelpful) {
+  StarRepo();
+}
+```
