@@ -1,9 +1,7 @@
-# Interview Coding Problems
+# Blazing Coding Problems
 
 
 [![N|Solid](https://img.shields.io/github/last-commit/Neilblaze/Circadian-Coding-Problems)](https://img.shields.io/github/last-commit/Neilblaze/Circadian-Coding-Problems) &ensp; [![N|Solid](https://img.shields.io/badge/Circadian-Coding%20Questions-green)](https://img.shields.io/badge/Circadian-Coding%20Questions-green) &ensp; ![language python](https://img.shields.io/badge/language-python-blue.svg) &ensp; ![coding problems](https://img.shields.io/badge/coding-problems-lightgray.svg)
-
-# Daily Coding Problems
 
 A repository that hold Interview Coding problems given by the famous top MNC's such as Google, Microsoft etc., some problem do have solutions, and other don't have due to time, you can create a solution and make a pull request.
 
